@@ -1,5 +1,4 @@
 # toneClusterWaveform
-# Under Construction, files not uploaded yet
 
 ## Overview
 
