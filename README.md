@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a **jupyter** notebook that generates a tone cluster waveform file for use as a signal generator in PC based audio analysis.
+This is a **jupyter** notebook that generates a tone cluster waveform file for use as a signal generator in PC based audio analysis. There's also a plain Python program that does the same thing.
 
 Common DIY approaches to PC based audio spectrum analysis are based on generation of random noise, processing through a device-under-test, and Fourier transform (FT) analysis of the resulting signal. 
 
