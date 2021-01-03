@@ -2,16 +2,11 @@
 
 Francis Deck, Dec. 24, 2020
 
-## How and why did you get here?
+## What's in this repository?
 
-You probably got here here because I shared a link to this repo. Why did I do this to you? Maybe because:
+* [Here's the notebook, which explains everything.](https://github.com/bassistTech/toneClusterWaveform/blob/master/Tone%20cluster%20audio%20waveform.ipynb)
 
-* You're interested in learning how PC based audio analysis works.
-	[Here's the notebook, it might take some time for GitHub to render it](https://github.com/bassistTech/toneClusterWaveform/blob/master/Tone%20cluster%20audio%20waveform.ipynb)
-* You want to use the tone cluster waveform file without building it from scratch
-	[Here's the file](https://github.com/bassistTech/toneClusterWaveform/blob/master/tonez44100.mp3)
-* You want to build or modify the file
-	Clone the entire repo to your computer and have fun!
+* [Here's the tone cluster waveform file.](https://github.com/bassistTech/toneClusterWaveform/blob/master/tonez44100.wav)
 
 ## Requirements
 
